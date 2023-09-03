@@ -1,18 +1,21 @@
 ---
-title: Colophon
+title: About
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt:
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+My name is Jin Lee. I am an engineer, husband, and father currently living in southern California. I've been a software engineering professional for two decades. Roughly half of my career I spent as an individual contributor (from junior to senior engineer), and the other half I've been in management. I am currently VP of software engineering at a medium-sized company (roughly 3k employees).
 
-If you have a question about him or else, just send a letter to him.
+After 20 years in this business, it's time to give back to a community that gave so much to me. I'll be writing down my thoughts and experiences, and hopefully you'll find it useful. Also, while there are plenty of resources out there on software engineering in general, there's not a whole lot when it comes to leadership, management, and general career growth. I've learned a few things along the way and will share them here.
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
+Finally, I created this because I don't really have an online presence. It makes me uncomfortable to put myself out there. Like many engineers, I am introverted and avoid attention. But I've come to a point in my life where I want people to know me, make new connections, and be actively involved online.
 
-**may u needs ✨**
+You can reach me on [LinkedIn](https://www.linkedin.com/in/jinslee/).
 
-- {{ site.author.email }}
-- github.com/{{ site.author.github }}
+**Links**
+
+- [linkedin.com/in/jinslee](https://www.linkedin.com/in/jinslee/)
+- [github.com/{{ site.author.github }}](https://github.com/{{ site.author.github }})
+- [twitter.com/jinslee](https://twitter.com/jinslee)
